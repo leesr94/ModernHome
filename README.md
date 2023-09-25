@@ -1,4 +1,5 @@
 # ModernHome
+![modernhome](https://github.com/leesr94/ModernHome/assets/131628924/31e2a81d-4bd8-4925-9bf0-3b5f240366ea)
 - 조립식 가구를 패키징하고 납품하는 MES 서비스
 - http://c7d2301t4.itwillbs.com/employee/login
 
@@ -50,6 +51,9 @@
 3. 프로젝트 스케줄링
     - 회의록, 페어별 개발 진행도 등의 지속적인 기록
     - 팀장과 함께 진행도에 따른 스케줄 설정과 페어 조정
+<br>
+
+![기능](https://github.com/leesr94/ModernHome/assets/131628924/58f98d07-6928-4420-b779-b12d1596a9c6)
 
 <br><br>
 
