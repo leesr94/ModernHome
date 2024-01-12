@@ -25,13 +25,12 @@
 <br><br>
 
 ## ERD
-![ERD](https://github.com/leesr94/ModernHome/assets/131628924/0c6c7b22-46f9-48a8-aafb-d45c815f4d4d)
+![ERD](https://github.com/leesr94/ModernHome/assets/131628924/7a50d67d-00b0-4315-b56d-fa129ff96b24)
 
 <br><br>
 
 ## 흐름도
 1. 데이터 흐름도
-![흐름도](https://github.com/leesr94/ModernHome/assets/131628924/ab7a8c82-c67a-42b3-84ec-a366b7aaa0b5)
   - Controller : 공통 URI를 설계 후, 기능별로 URI을 추가로 설계. 또한 각 URI 별로 호출 방식(GET/POST)에 따라 사용하는 메서드를 달리함.
   - Service : DAO와 Controller를 연결
   - DAO : DB와 연결함. 객체와 SQL문을 매핑하여 데이터를 객체화
